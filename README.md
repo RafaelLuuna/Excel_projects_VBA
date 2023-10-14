@@ -2,9 +2,9 @@
 
 Este repositório contém projetos antigos que fiz no excel usando o VBA. Cada projeto teve diversos desafios e muitos aprendizados, não vou entrar em detalhes de como os códigos funcionam más fique a vontade para explorar!
 
-Com o intuito de facilitar a navegação, eu separei todos os scripts e formulários na pasta 'Script' dentro de cada projeto. Esses arquivos são apenas para consulta, não estão vinculados diretamente ao arquivo excel, ou seja, caso altere alguma coisa no código dessa pasta, não será refletido na aplicação.
+Com o intuito de facilitar a navegação, eu separei todos os scripts e formulários usados nos projetos em uma pasta chamada 'Script' dentro de cada projeto. Esses arquivos são apenas para consulta, não estão vinculados diretamente ao arquivo excel, ou seja, caso altere alguma coisa no código dessa pasta não será refletido na aplicação.
 
-Para alterar o código da aplicação é preciso acessar o editor do visual basic dentro do próprio arquivo excel (você pode usar esse guia caso tenha dúvidas: https://ninjadoexcel.com.br/como-abrir-o-visual-basic-no-excel/).
+Para alterar o código da aplicação é preciso acessar o editor do visual basic dentro do próprio arquivo excel (você pode usar esse guia do blog ninjadoexcel caso tenha alguma dúvida: https://ninjadoexcel.com.br/como-abrir-o-visual-basic-no-excel/).
 
 
 ##Visão geral de cada projeto
