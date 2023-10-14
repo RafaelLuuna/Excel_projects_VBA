@@ -7,9 +7,9 @@ Com o intuito de facilitar a navegação, eu separei todos os scripts e formulá
 Para alterar o código da aplicação é preciso acessar o editor do visual basic dentro do próprio arquivo excel (você pode usar esse guia do blog ninjadoexcel caso tenha alguma dúvida: https://ninjadoexcel.com.br/como-abrir-o-visual-basic-no-excel/).
 
 
-##Visão geral de cada projeto
+## Visão geral de cada projeto
 
-###RPG GAME
+### RPG GAME
 Esse projeto trouxe grandes desafios, eu queria aproveitar a capacidade do formulário do VBA de carregar imagens, para montar um jogo estilo os pokémons antigos, onde era renderizado uma grade de sprites com até 3 camadas: Background, mundo(aonde o player interage), overlay(camada que fica acima do player). 
 
 Dentro desse jogo eu queria que fosse possível: 
