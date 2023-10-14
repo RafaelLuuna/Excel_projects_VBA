@@ -32,12 +32,9 @@ Comandos de ações especiais:
 * GaveItem(InventoryID,ItemID,ItemQnt,ItemDurabillity)
 * UpdateWallet(WalletID,addValue,OnErrorLine)
 
-Outra coisa bem interessante é que a renderização do mundo não fica limiado ao número de sprites na tela. Por exemplo, essas constantes abaixo definem o tamanho da grade de sprites que vai ser exibida, no caso, 17 sprites por 17 sprites.
+Outra coisa bem interessante é que a renderização do mundo não fica limiado ao número de sprites na tela. Por exemplo, essas constantes abaixo etão no módulo 'DATA.bas', elas definem o tamanho da grade de sprites que vai ser exibida, no caso, 17 sprites por 17 sprites.
 
 ```
-'Módulo -> DATA.bas
-'Linha -> 47, 48
-
 Public Const xArraySize = 17
 Public Const yArraySize = 17
 
