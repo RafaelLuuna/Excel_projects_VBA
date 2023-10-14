@@ -1,0 +1,30 @@
+Bem vindo ao "PSOS For Clothing"
+
+PSOS For Clothig foi desenvolvido especialmente para ajudar você, pequeno varegista, na organização do seu próprio negócio de roupas!!
+
+Especificações:
+EXCEL 2016 ou superior.
+
+Funcionalidades:
+-Cadastro de produtos (Roupas e Calçados)
+-Controle de estoque (Incluindo divisão por tamanho de peça)
+-Cadastro de clientes
+-Cadastro de fornecedores
+-Fluxo de caixa
+-Registro de vendas
+-Registro de compras
+-Dashboard
+
+Funcionalidades Extras:
+-Sistema de desconto máximo por peça
+	"Ao registar a compra de um produto, você pode definir um valor de desconto máximo permitido por peça, o que te dá uma flexibilidade maior com o cliente sem perder mais doque o previsto."
+
+-Fundo de investimento
+	"Um valor definido logo abaixo do saldo de sua carteira, esse fundo é um valor fixo para separar o seu lucro pessoal da quantia que será separada para o seu negócio."
+
+Agradecemos o seu download, e desejemos o melhor para você e seu negócio a partir de hoje.
+
+Qualquer dúvida ou comentário nos envie um e-mail:
+lunassistem@gmail.com
+ou entre em contato através do nosso site:
+www.lunassistem.com

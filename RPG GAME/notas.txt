@@ -1,0 +1,18 @@
+OBJETIVO DO JOGO:
+-Coletar madeira para vender e ganhar dinheiro.
+
+-Os machados tem durabilidade, se atingir o limite ele quebra.
+
+-Você deve gastar os recursos que coletou para fabricar um novo machado.
+
+-Caso não tenha recursos poderá comprar um machado, más sairá mais caro.
+
+-Cada vez que você entra na cabana passa-se 1 dia.
+
+-A cada 5 dias começa o inverno, que você não consegue mais coletar madeira e tem que gastar o dinheiro que juntou para comprar comida.
+
+-Se não tiver dinheiro suficiente não vai conseguir comprar comida e sua saúde vai abaixar, o que faz você conseguir cada vez menos madeira.
+
+-Cada inverno que passa os alimentos vão ficando mais caros.
+
+
