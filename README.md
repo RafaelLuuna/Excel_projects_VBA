@@ -19,7 +19,9 @@ Dentro desse jogo eu queria que fosse possível:
 * Fosse possível entrar em interiores.
 * Tenha um sistema de diálogo simples.
 
-Para a minha alegria todos os requisitos acima foram cumpridos! Se você for análisar o código vai perceber que eu criei um sistema pensando no máximo de versátilidade para alterar o tamanho da exibição, cadastrar novos itens, cadastrar novos diálogos, etc... Por exemplo, essas constantes abaixo definem o tamanho da grade de sprites que vai ser exibida, no caso 17 sprites por 17 sprites.
+Para a minha alegria todos os requisitos acima foram cumpridos! :grin: 
+
+Se você for análisar o código vai perceber que eu criei um sistema pensando no máximo de versátilidade para alterar o tamanho da exibição, cadastrar novos itens, cadastrar novos diálogos, etc... Por exemplo, essas constantes abaixo definem o tamanho da grade de sprites que vai ser exibida, no caso 17 sprites por 17 sprites.
 
 ```
 'Módulo -- DATA.bas
