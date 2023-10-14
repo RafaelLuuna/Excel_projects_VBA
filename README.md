@@ -13,7 +13,7 @@ Para alterar o código da aplicação é preciso acessar o editor do visual basi
 Esse projeto trouxe grandes desafios, eu queria aproveitar a capacidade do formulário do VBA de carregar imagens, para montar um jogo estilo os pokémons antigos, onde o mundo era visto de cima para baixo.
 
 Dentro desse jogo eu queria que fosse possível: 
-* Desenhar o mundo da maneira que eu quisesse sem ter que alterar muita coisa no código.
+* Desenhar o mundo sem ter que alterar muita coisa no código.
 * Movimentar o player de maneira suave (ou seja, criar uma animação usando VBA :cold_sweat:).
 * Houvesse objetos interativos como o baú ou a árvore por exemplo.
 * Fosse possível entrar em interiores.
