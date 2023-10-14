@@ -14,7 +14,7 @@ Esse projeto trouxe grandes desafios, eu queria aproveitar a capacidade do formu
 
 Dentro desse jogo eu queria que fosse possível: 
 * Desenhar o mundo da maneira que eu quisesse sem ter que alterar muita coisa no código.
-* O Player se movimentasse de maneira suave (ou seja, criar uma animação usando VBA :cold_sweat:).
+* Movimentar o player de maneira suave (ou seja, criar uma animação usando VBA :cold_sweat:).
 * Houvesse objetos interativos como o baú ou a árvore por exemplo.
 * Fosse possível entrar em interiores.
 * Tenha um sistema de diálogo simples.
