@@ -47,7 +47,7 @@ Dessa forma o mundo não fica limitado apenas aos sprites que eu posso rederizar
 
 
 
-Caso se interesse no projeto e queira saber mais, me chama no discord: RafaelLuuna
+Caso se interesse no projeto e queira saber mais, fique a vontade para entrar em contato através do discord: RafaelLuuna
 
 ### PS OS For Clothing
 
