@@ -25,14 +25,11 @@ Eu usei as próprias tabelas do excel como banco de dados, através delas eu con
 
 Se você for análisar o código vai perceber que eu criei um sistema pensando no máximo de versátilidade possível. Eu quis facilitar ao máximo tarefas que são recorrentes no desenvolvimento do jogo como alterar sprites no mundo, cadastrar novos itens, cadastrar novos diálogos, etc... Por exemplo, eu posso alterar ou incluir falas de NPCs simplesmente mexendo nos valores da aba 'Script', além disso, na coluna 'H' eu posso usar um dos comandos abaixo para executar determinada ação de acordo com o roteiro.
 
-Comandos de ações especiais: 
-* OptionMode(Opt1, Opt2,[...])
-* OptionSelected(Opt1, Opt2,[...])
-* GoTo(Line)
-* GaveItem(InventoryID,ItemID,ItemQnt,ItemDurabillity)
-* UpdateWallet(WalletID,addValue,OnErrorLine)
+Por exemplo, eu posso colocar 'OptionMode' na coluna 'H', e as próximas colunas definem quais vão ser as opções que o usuário pode selecionar, na próxima linha, eu posso colocar o comando 'OptionSelected' para executar alguma ação de acordo com a opção selecionada na linha anterior. A ação pode ser 'GoTo' para ir para outra linha do script, 'GaveItem' para incluír um item em um inventário ou 'UpdateWalllet' para alterar o valor da carteira de um personagem.
 
-Outra coisa bem interessante é que a renderização do mundo não fica limiado ao número de sprites na tela. Por exemplo, essas constantes abaixo etão no módulo 'DATA.bas', elas definem o tamanho da grade de sprites que vai ser exibida, no caso, 17 sprites por 17 sprites.
+Outra coisa bem interessante é que a renderização do mundo não fica limiado ao número de sprites na tela. 
+
+Por exemplo, essas constantes abaixo etão no módulo 'DATA.bas', elas definem o tamanho da grade de sprites que vai ser exibida, no caso, 17 sprites por 17 sprites.
 
 ```
 Public Const xArraySize = 17
