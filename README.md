@@ -54,10 +54,15 @@ Esse sistema foi desenvolvido para gerenciar uma pequena loja de roupas. Nele é
 
 O sistema permite cadastrar produtos de diversos tamanhos e fazer o gerenciamento do estoque, inclusive registrar pedidos de compras de cada fornecedor.
 
-Ele conta com vários formulários automatizados por VBA que possuem formatações automáticas nos campos de input e faz o registro de todas as vendas.
+Ele conta com vários formulários automatizados por VBA que permitem cadastrar produtos, fornecedores, clientes, e permite realizar as vendas mantendo o controle do fluxo de caixa.
 
 
 ### PDV ADEGA MARQUINHOS
 
-Esse sistema de PDV permite 
+Esse sistema de PDV foi pensado para o facilitar o dia a dia de uma adega/loja de conveniência. 
 
+Ele conta com um sistema de abertura e fechamento de caixa que permite conferir se o saldo do caixa no fim do dia corresponde ao total que foi vendido. Ele registra todas as vendas feitas em dinheiro, débito, crédito e VR.
+
+Também conta com um sistema de cadastro de produtos, além de uma função de busca de produto por nome para facilitar na operação do dia a dia.
+
+há um sistema de registro de compras de mercadoria que seria usado para realizar o controle do estoque, porém, por desistência do cliente no projeto esse sistema não foi concluído. A função ainda está lá porém não está concluída.
